@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- ===== Ambient ===== -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_001</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Pokémon Exploration Team Theme</label>
+    <clipPath>MusicExpanded/PMDEOS/001. Pokémon Exploration Team Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_002</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Welcome to the World of Pokémon!</label>
+    <clipPath>MusicExpanded/PMDEOS/003. Welcome to the World of Pokémon!</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_003</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - On the Beach at Dusk</label>
+    <clipPath>MusicExpanded/PMDEOS/004. On the Beach at Dusk</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_004</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Beach Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/005. Beach Cave</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_005</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - In the Depths of the Pit</label>
+    <clipPath>MusicExpanded/PMDEOS/006. In the Depths of the Pit</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_006</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Wigglytuff's Guild</label>
+    <clipPath>MusicExpanded/PMDEOS/008. Wigglytuff's Guild</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_007</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Guildmaster Wigglytuff</label>
+    <clipPath>MusicExpanded/PMDEOS/009. Guildmaster Wigglytuff</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_008</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Goodnight</label>
+    <clipPath>MusicExpanded/PMDEOS/010. Goodnight</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_009</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Wigglytuff's Guild Remix</label>
+    <clipPath>MusicExpanded/PMDEOS/011. Wigglytuff's Guild Remix</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_010</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Drenched Bluff</label>
+    <clipPath>MusicExpanded/PMDEOS/012. Drenched Bluff</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_011</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Job Clear!</label>
+    <clipPath>MusicExpanded/PMDEOS/013. Job Clear!</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_012</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Treasure Town</label>
+    <clipPath>MusicExpanded/PMDEOS/014. Treasure Town</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_013</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Heartwarming</label>
+    <clipPath>MusicExpanded/PMDEOS/015. Heartwarming</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_014</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Growing Anxiety</label>
+    <clipPath>MusicExpanded/PMDEOS/016. Growing Anxiety</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_015</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Oh No!</label>
+    <clipPath>MusicExpanded/PMDEOS/017. Oh No!</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_016</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Mt. Bristle</label>
+    <clipPath>MusicExpanded/PMDEOS/018. Mt. Bristle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_017</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Time Gear Remix</label>
+    <clipPath>MusicExpanded/PMDEOS/020. Time Gear Remix</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_018</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - The Gatekeepers</label>
+    <clipPath>MusicExpanded/PMDEOS/021. The Gatekeepers</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_019</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Outlaw!</label>
+    <clipPath>MusicExpanded/PMDEOS/022. Outlaw!</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_020</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - I Saw Something Again...</label>
+    <clipPath>MusicExpanded/PMDEOS/023. I Saw Something Again...</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_021</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Waterfall Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/024. Waterfall Cave</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_022</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Kecleon's Shop</label>
+    <clipPath>MusicExpanded/PMDEOS/025. Kecleon's Shop</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_023</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Team Skull</label>
+    <clipPath>MusicExpanded/PMDEOS/026. Team Skull</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_024</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Spinda's Café</label>
+    <clipPath>MusicExpanded/PMDEOS/027. Spinda's Café</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_025</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Ludicolo Dance</label>
+    <clipPath>MusicExpanded/PMDEOS/028. Ludicolo Dance</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_026</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Apple Woods</label>
+    <clipPath>MusicExpanded/PMDEOS/029. Apple Woods</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_027</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Craggy Coast</label>
+    <clipPath>MusicExpanded/PMDEOS/030. Craggy Coast</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_028</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Cave and Side Path</label>
+    <clipPath>MusicExpanded/PMDEOS/031. Cave and Side Path</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_029</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Mt. Horn</label>
+    <clipPath>MusicExpanded/PMDEOS/032. Mt. Horn</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_030</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Foggy Forest</label>
+    <clipPath>MusicExpanded/PMDEOS/033. Foggy Forest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_031</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Steam Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/034. Steam Cave</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_032</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Upper Steam Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/035. Upper Steam Cave</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_033</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Amp Plains</label>
+    <clipPath>MusicExpanded/PMDEOS/036. Amp Plains</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_034</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Far Amp Plains</label>
+    <clipPath>MusicExpanded/PMDEOS/037. Far Amp Plains</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_035</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Rising Fear</label>
+    <clipPath>MusicExpanded/PMDEOS/039. Rising Fear</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_036</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Northern Desert</label>
+    <clipPath>MusicExpanded/PMDEOS/040. Northern Desert</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_037</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Quicksand Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/041. Quicksand Cave</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_038</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Quicksand Pit</label>
+    <clipPath>MusicExpanded/PMDEOS/042. Quicksand Pit</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_039</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Crystal Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/043. Crystal Cave</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_040</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Crystal Crossing</label>
+    <clipPath>MusicExpanded/PMDEOS/044. Crystal Crossing</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_041</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - At the End of the Day</label>
+    <clipPath>MusicExpanded/PMDEOS/045. At the End of the Day</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_042</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - In the Future</label>
+    <clipPath>MusicExpanded/PMDEOS/046. In the Future</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_043</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Chasm Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/048. Chasm Cave</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_044</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Dark Hill</label>
+    <clipPath>MusicExpanded/PMDEOS/049. Dark Hill</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_045</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Sealed Ruin</label>
+    <clipPath>MusicExpanded/PMDEOS/050. Sealed Ruin</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_046</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Sealed Ruin Pit</label>
+    <clipPath>MusicExpanded/PMDEOS/051. Sealed Ruin Pit</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_047</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Dusk Forest</label>
+    <clipPath>MusicExpanded/PMDEOS/052. Dusk Forest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_048</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Deep Dusk Forest</label>
+    <clipPath>MusicExpanded/PMDEOS/053. Deep Dusk Forest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_049</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Treeshroud Forest</label>
+    <clipPath>MusicExpanded/PMDEOS/055. Treeshroud Forest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_050</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Brine Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/056. Brine Cave</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_051</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Lower Brine Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/057. Lower Brine Cave</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_052</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Hidden Land</label>
+    <clipPath>MusicExpanded/PMDEOS/058. Hidden Land</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_053</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Hidden Highland</label>
+    <clipPath>MusicExpanded/PMDEOS/059. Hidden Highland</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_054</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Through the Sea of Time</label>
+    <clipPath>MusicExpanded/PMDEOS/062. Through the Sea of Time</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_055</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - In the Hands of Fate</label>
+    <clipPath>MusicExpanded/PMDEOS/063. In the Hands of Fate</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_056</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Down a Dark Path</label>
+    <clipPath>MusicExpanded/PMDEOS/067. Down a Dark Path</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_057</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Time Restored</label>
+    <clipPath>MusicExpanded/PMDEOS/069. Time Restored</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_058</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Don't Ever Forget...</label>
+    <clipPath>MusicExpanded/PMDEOS/070. Don't Ever Forget...</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_059</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Have to Get Home</label>
+    <clipPath>MusicExpanded/PMDEOS/071. Have to Get Home</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_060</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Farther Away...</label>
+    <clipPath>MusicExpanded/PMDEOS/072. Farther Away...</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_061</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - A Wish for Peace</label>
+    <clipPath>MusicExpanded/PMDEOS/073. A Wish for Peace</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_062</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Memories Returned</label>
+    <clipPath>MusicExpanded/PMDEOS/074. Memories Returned</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_063</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Mystifying Forest</label>
+    <clipPath>MusicExpanded/PMDEOS/078. Mystifying Forest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_064</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Do Your Best, as Always!</label>
+    <clipPath>MusicExpanded/PMDEOS/079. Do Your Best, as Always!</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_065</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Shaymin Village</label>
+    <clipPath>MusicExpanded/PMDEOS/080. Shaymin Village</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_066</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Sky Peak Forest</label>
+    <clipPath>MusicExpanded/PMDEOS/081. Sky Peak Forest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_067</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Sky Peak Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/082. Sky Peak Cave</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_068</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Sky Peak Prairie</label>
+    <clipPath>MusicExpanded/PMDEOS/083. Sky Peak Prairie</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_069</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Sky Peak Coast</label>
+    <clipPath>MusicExpanded/PMDEOS/084. Sky Peak Coast</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_070</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Sky Peak Snowfield</label>
+    <clipPath>MusicExpanded/PMDEOS/085. Sky Peak Snowfield</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_071</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Sky Peak Final Pass</label>
+    <clipPath>MusicExpanded/PMDEOS/086. Sky Peak Final Pass</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_072</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Blizzard Island Rescue Team Medley</label>
+    <clipPath>MusicExpanded/PMDEOS/087. Blizzard Island Rescue Team Medley</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_073</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Surrounded Sea</label>
+    <clipPath>MusicExpanded/PMDEOS/088. Surrounded Sea</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_074</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Miracle Sea</label>
+    <clipPath>MusicExpanded/PMDEOS/089. Miracle Sea</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_075</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Aegis Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/090. Aegis Cave</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_076</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Concealed Ruins</label>
+    <clipPath>MusicExpanded/PMDEOS/092. Concealed Ruins</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_077</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Mt. Travail</label>
+    <clipPath>MusicExpanded/PMDEOS/093. Mt. Travail</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_078</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Random Dungeon Theme 1</label>
+    <clipPath>MusicExpanded/PMDEOS/098. Random Dungeon Theme 1</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_079</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Random Dungeon Theme 2</label>
+    <clipPath>MusicExpanded/PMDEOS/099. Random Dungeon Theme 2</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_080</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Random Dungeon Theme 3</label>
+    <clipPath>MusicExpanded/PMDEOS/100. Random Dungeon Theme 3</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_081</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Marowak Dojo</label>
+    <clipPath>MusicExpanded/PMDEOS/101. Marowak Dojo</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_082</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Pelipper Island</label>
+    <clipPath>MusicExpanded/PMDEOS/102. Pelipper Island</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_083</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Sympathy</label>
+    <clipPath>MusicExpanded/PMDEOS/103. Sympathy</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_084</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Beyond the Dream</label>
+    <clipPath>MusicExpanded/PMDEOS/104. Beyond the Dream</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_085</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Air of Unease</label>
+    <clipPath>MusicExpanded/PMDEOS/105. Air of Unease</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_086</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Star Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/106. Star Cave</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_087</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Deep Star Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/107. Deep Star Cave</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_088</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - One for All, All for One!</label>
+    <clipPath>MusicExpanded/PMDEOS/108. One for All, All for One!</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_089</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Murky Forest</label>
+    <clipPath>MusicExpanded/PMDEOS/109. Murky Forest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_090</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - A Fun Exploration</label>
+    <clipPath>MusicExpanded/PMDEOS/110. A Fun Exploration</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_091</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Fortune Ravine</label>
+    <clipPath>MusicExpanded/PMDEOS/111. Fortune Ravine</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_092</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Fortune Ravine Depths</label>
+    <clipPath>MusicExpanded/PMDEOS/112. Fortune Ravine Depths</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_093</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - It Can't Be...</label>
+    <clipPath>MusicExpanded/PMDEOS/113. It Can't Be...</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_094</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Defend Globe</label>
+    <clipPath>MusicExpanded/PMDEOS/114. Defend Globe</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_095</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Defend Globe (Ending)</label>
+    <clipPath>MusicExpanded/PMDEOS/115. Defend Globe (Ending)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_096</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Spring Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/116. Spring Cave</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_097</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Lower Spring Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/117. Lower Spring Cave</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_098</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Spring Cave Depths</label>
+    <clipPath>MusicExpanded/PMDEOS/118. Spring Cave Depths</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_099</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Here Comes Team Charm!</label>
+    <clipPath>MusicExpanded/PMDEOS/119. Here Comes Team Charm!</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_100</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Southern Jungle</label>
+    <clipPath>MusicExpanded/PMDEOS/120. Southern Jungle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_101</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Boulder Quarry</label>
+    <clipPath>MusicExpanded/PMDEOS/121. Boulder Quarry</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_102</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Illusion Stone Chamber</label>
+    <clipPath>MusicExpanded/PMDEOS/122. Illusion Stone Chamber</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_103</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Limestone Cavern</label>
+    <clipPath>MusicExpanded/PMDEOS/123. Limestone Cavern</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_104</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Deep Limestone Cavern</label>
+    <clipPath>MusicExpanded/PMDEOS/124. Deep Limestone Cavern</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_105</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Team Charm's Theme</label>
+    <clipPath>MusicExpanded/PMDEOS/125. Team Charm's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_106</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - For a New Life</label>
+    <clipPath>MusicExpanded/PMDEOS/126. For a New Life</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_107</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Barren Valley</label>
+    <clipPath>MusicExpanded/PMDEOS/127. Barren Valley</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_108</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Dark Wasteland</label>
+    <clipPath>MusicExpanded/PMDEOS/128. Dark Wasteland</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_109</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Living Spirit</label>
+    <clipPath>MusicExpanded/PMDEOS/131. Living Spirit</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_110</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Icicle Forest</label>
+    <clipPath>MusicExpanded/PMDEOS/132. Icicle Forest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_111</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Proud Accomplishment</label>
+    <clipPath>MusicExpanded/PMDEOS/133. Proud Accomplishment</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_112</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Vast Ice Mountain</label>
+    <clipPath>MusicExpanded/PMDEOS/134. Vast Ice Mountain</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_113</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Vast Ice Mountain Peak</label>
+    <clipPath>MusicExpanded/PMDEOS/135. Vast Ice Mountain Peak</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_114</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - In the Morning Sun</label>
+    <clipPath>MusicExpanded/PMDEOS/136. In the Morning Sun</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_115</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - A New World</label>
+    <clipPath>MusicExpanded/PMDEOS/137. A New World</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_116</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Thoughts for Friends</label>
+    <clipPath>MusicExpanded/PMDEOS/139. Thoughts for Friends</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_117</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - A Message on the Wind</label>
+    <clipPath>MusicExpanded/PMDEOS/140. A Message on the Wind</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_118</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - That Shape...</label>
+    <clipPath>MusicExpanded/PMDEOS/143. That Shape...</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_119</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - They're Above Us!</label>
+    <clipPath>MusicExpanded/PMDEOS/144. They're Above Us!</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_120</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - My Body...Feels Heavy...</label>
+    <clipPath>MusicExpanded/PMDEOS/145. My Body...Feels Heavy...</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_121</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Mission Success</label>
+    <clipPath>MusicExpanded/PMDEOS/146. Mission Success</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_122</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Mission Failure</label>
+    <clipPath>MusicExpanded/PMDEOS/147. Mission Failure</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_123</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Level Up</label>
+    <clipPath>MusicExpanded/PMDEOS/148. Level Up</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_124</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Rank Up</label>
+    <clipPath>MusicExpanded/PMDEOS/149. Rank Up</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_125</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Area Uncovered</label>
+    <clipPath>MusicExpanded/PMDEOS/150. Area Uncovered</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_126</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Pokémon Joins</label>
+    <clipPath>MusicExpanded/PMDEOS/151. Pokémon Joins</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_127</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Release Pokémon</label>
+    <clipPath>MusicExpanded/PMDEOS/152. Release Pokémon</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_128</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Perfect Sentry Duty</label>
+    <clipPath>MusicExpanded/PMDEOS/153. Perfect Sentry Duty</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_129</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Good Sentry Duty</label>
+    <clipPath>MusicExpanded/PMDEOS/154. Good Sentry Duty</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_130</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Decent Sentry Duty</label>
+    <clipPath>MusicExpanded/PMDEOS/155. Decent Sentry Duty</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_131</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Failed Sentry Duty</label>
+    <clipPath>MusicExpanded/PMDEOS/156. Failed Sentry Duty</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_132</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Reward</label>
+    <clipPath>MusicExpanded/PMDEOS/157. Reward</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_133</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Big Reward</label>
+    <clipPath>MusicExpanded/PMDEOS/158. Big Reward</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_134</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Message from Guild</label>
+    <clipPath>MusicExpanded/PMDEOS/159. Message from Guild</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_135</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Evolution</label>
+    <clipPath>MusicExpanded/PMDEOS/160. Evolution</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_136</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - On the Beach at Dusk (Intro only)</label>
+    <clipPath>MusicExpanded/PMDEOS/161. On the Beach at Dusk (Intro only)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_137</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Team Charm's Theme (Intro only)</label>
+    <clipPath>MusicExpanded/PMDEOS/162. Team Charm's Theme (Intro only)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_138</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Intro Alternate (Unused)</label>
+    <clipPath>MusicExpanded/PMDEOS/163. Intro Alternate (Unused)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_139</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Goodnight Alternate (Unused)</label>
+    <clipPath>MusicExpanded/PMDEOS/166. Goodnight Alternate (Unused)</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <!-- ===== Anomaly Custom Tracks (Custom-only cues) ===== -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_001</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Pokémon Exploration Team Theme</label>
+    <clipPath>MusicExpanded/PMDEOS/001. Pokémon Exploration Team Theme</clipPath>
+    <cue>Custom</cue>
+    <cueData>ChimeraAssault</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_002</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Top Menu Theme</label>
+    <clipPath>MusicExpanded/PMDEOS/002. Top Menu Theme</clipPath>
+    <cue>Custom</cue>
+    <cueData>CorruptedObelisk</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_003</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Welcome to the World of Pokémon!</label>
+    <clipPath>MusicExpanded/PMDEOS/003. Welcome to the World of Pokémon!</clipPath>
+    <cue>Custom</cue>
+    <cueData>CreepJoinerJoin</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_004</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - On the Beach at Dusk</label>
+    <clipPath>MusicExpanded/PMDEOS/004. On the Beach at Dusk</clipPath>
+    <cue>Custom</cue>
+    <cueData>DeathPall</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_005</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Beach Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/005. Beach Cave</clipPath>
+    <cue>Custom</cue>
+    <cueData>DevourerAssault</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_006</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Pokémon Exploration Team Theme</label>
+    <clipPath>MusicExpanded/PMDEOS/001. Pokémon Exploration Team Theme</clipPath>
+    <cue>Custom</cue>
+    <cueData>DevourerWaterAssault</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_007</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Top Menu Theme</label>
+    <clipPath>MusicExpanded/PMDEOS/002. Top Menu Theme</clipPath>
+    <cue>Custom</cue>
+    <cueData>DistressCall</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_008</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Welcome to the World of Pokémon!</label>
+    <clipPath>MusicExpanded/PMDEOS/003. Welcome to the World of Pokémon!</clipPath>
+    <cue>Custom</cue>
+    <cueData>FleshbeastAttack</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_009</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - On the Beach at Dusk</label>
+    <clipPath>MusicExpanded/PMDEOS/004. On the Beach at Dusk</clipPath>
+    <cue>Custom</cue>
+    <cueData>FleshmassHeart</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_010</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Beach Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/005. Beach Cave</clipPath>
+    <cue>Custom</cue>
+    <cueData>FrenziedAnimals</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_011</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Pokémon Exploration Team Theme</label>
+    <clipPath>MusicExpanded/PMDEOS/001. Pokémon Exploration Team Theme</clipPath>
+    <cue>Custom</cue>
+    <cueData>GhoulAttack</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_012</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Top Menu Theme</label>
+    <clipPath>MusicExpanded/PMDEOS/002. Top Menu Theme</clipPath>
+    <cue>Custom</cue>
+    <cueData>GorehulkAssault</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_013</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Welcome to the World of Pokémon!</label>
+    <clipPath>MusicExpanded/PMDEOS/003. Welcome to the World of Pokémon!</clipPath>
+    <cue>Custom</cue>
+    <cueData>HateChanters</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_014</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - On the Beach at Dusk</label>
+    <clipPath>MusicExpanded/PMDEOS/004. On the Beach at Dusk</clipPath>
+    <cue>Custom</cue>
+    <cueData>MetalHorrorImplantation</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_015</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Beach Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/005. Beach Cave</clipPath>
+    <cue>Custom</cue>
+    <cueData>MysteriousCargoGoldenCube</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_016</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Pokémon Exploration Team Theme</label>
+    <clipPath>MusicExpanded/PMDEOS/001. Pokémon Exploration Team Theme</clipPath>
+    <cue>Custom</cue>
+    <cueData>MysteriousCargoRevenantSpine</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_017</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Top Menu Theme</label>
+    <clipPath>MusicExpanded/PMDEOS/002. Top Menu Theme</clipPath>
+    <cue>Custom</cue>
+    <cueData>MysteriousCargoUnnaturalCorpse</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_018</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Welcome to the World of Pokémon!</label>
+    <clipPath>MusicExpanded/PMDEOS/003. Welcome to the World of Pokémon!</clipPath>
+    <cue>Custom</cue>
+    <cueData>Nociosphere</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_019</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - On the Beach at Dusk</label>
+    <clipPath>MusicExpanded/PMDEOS/004. On the Beach at Dusk</clipPath>
+    <cue>Custom</cue>
+    <cueData>PitGate</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_020</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Beach Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/005. Beach Cave</clipPath>
+    <cue>Custom</cue>
+    <cueData>PsychicRitualSiege</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_021</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Pokémon Exploration Team Theme</label>
+    <clipPath>MusicExpanded/PMDEOS/001. Pokémon Exploration Team Theme</clipPath>
+    <cue>Custom</cue>
+    <cueData>Revenant</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_022</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Top Menu Theme</label>
+    <clipPath>MusicExpanded/PMDEOS/002. Top Menu Theme</clipPath>
+    <cue>Custom</cue>
+    <cueData>ShamblerAssault</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_023</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Welcome to the World of Pokémon!</label>
+    <clipPath>MusicExpanded/PMDEOS/003. Welcome to the World of Pokémon!</clipPath>
+    <cue>Custom</cue>
+    <cueData>ShamblerSwarm</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_024</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - On the Beach at Dusk</label>
+    <clipPath>MusicExpanded/PMDEOS/004. On the Beach at Dusk</clipPath>
+    <cue>Custom</cue>
+    <cueData>ShamblerSwarmAnimals</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_025</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Beach Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/005. Beach Cave</clipPath>
+    <cue>Custom</cue>
+    <cueData>SightstealerArrival</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_026</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Pokémon Exploration Team Theme</label>
+    <clipPath>MusicExpanded/PMDEOS/001. Pokémon Exploration Team Theme</clipPath>
+    <cue>Custom</cue>
+    <cueData>SightstealerSwarm</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_027</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Top Menu Theme</label>
+    <clipPath>MusicExpanded/PMDEOS/002. Top Menu Theme</clipPath>
+    <cue>Custom</cue>
+    <cueData>SmallShamblerSwarm</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_028</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Welcome to the World of Pokémon!</label>
+    <clipPath>MusicExpanded/PMDEOS/003. Welcome to the World of Pokémon!</clipPath>
+    <cue>Custom</cue>
+    <cueData>TwistedObelisk</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_029</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - On the Beach at Dusk</label>
+    <clipPath>MusicExpanded/PMDEOS/004. On the Beach at Dusk</clipPath>
+    <cue>Custom</cue>
+    <cueData>UnnaturalDarkness</cueData>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_PMDEOS_ANOM_030</defName>
+    <label>Pokemon Mystery Dungeon: Explorers of Sky - Beach Cave</label>
+    <clipPath>MusicExpanded/PMDEOS/005. Beach Cave</clipPath>
+    <cue>Custom</cue>
+    <cueData>WarpedObelisk</cueData>
+  </MusicExpanded.TrackDef>
+</Defs>
